@@ -3,7 +3,8 @@ languageCode: en-us
 title: Jaden Ambrocio Alcantara Portfolio
 theme: "hugo-profile"
 
-paginate: 3
+pagination:
+  pagerSize: 4
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
