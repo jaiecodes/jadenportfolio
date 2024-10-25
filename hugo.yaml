@@ -118,8 +118,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Jaden"
-    subtitle: "I build things for the web"
-    content: "A passionate software developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    subtitle: "I code to bring stories alive"
+    content: "Passtionate about crafting seamless, engaging experiences through computer graphics or system design."
     image: /images/profilepic.jpg
     bottomImage:
       enable: false
@@ -188,31 +188,26 @@ params:
     items:
       - title: CES Exhibit 2024
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+        image: /images/CES2024.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://www.youtube.com/watch?v=jEHOyn-DyZ4&t=1s&ab_channel=BrunswickCorporation
         badges:
           - "Unreal"
           - "C++"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-
+          - "Perforce"
+    
       - title: AJO
         content: A mobile platformer game made with Unity that uses gesture controls.
-        image: /images/projects/converter.jpg
+        image: /images/AJO.png
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: /videos/AjoDemo.mp4
         badges:
           - "C#"
           - "Unity"
           - "Photoshop"
           - "Perforce"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
 
       - title: Wireless Sensing for Spatial Processing
         content: Python script that monitors RSSI values from a certain MAC address and processes IMU data.
