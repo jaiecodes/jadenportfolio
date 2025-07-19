@@ -48,7 +48,7 @@ params:
   title: "Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/images/JLogo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -186,17 +186,6 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: CES Exhibit 2024
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/CES2024.png
-        featured:
-          name: Demo
-          link: https://www.youtube.com/watch?v=jEHOyn-DyZ4&t=1s&ab_channel=BrunswickCorporation
-        badges:
-          - "Unreal"
-          - "C++"
-          - "Perforce"
-    
       - title: AJO
         content: A mobile platformer game made with Unity that uses gesture controls.
         image: /images/AJO.png
